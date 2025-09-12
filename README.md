@@ -1,4 +1,4 @@
-<# 👋 Bonjour, je suis Emeline Ah-Tchine
+# 👋 Bonjour, je suis Emeline Ah-Tchine
 
 🎓 Docteure en sciences de l'éducation et de la formation | 📊 Data Analyst | Appréhender les innovations technologiques dans l'apprentissage
 
