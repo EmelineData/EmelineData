@@ -31,7 +31,7 @@
 ## 🌍 Me retrouver
 - 💼 [LinkedIn](https://www.linkedin.com/in/emeline-aht-phd)  
 - 📂 [Portfolio GitHub Pages](https://EmelineData.github.io)   
-- ✉️ Contact : à venir  
+- ✉️ Contact : emelinedata@gmail.com
 
 ---
 
