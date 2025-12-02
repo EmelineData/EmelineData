@@ -15,7 +15,7 @@
 ## 💡 Compétences principales
 - **Data Analysis** : Python (Pandas, NumPy, Matplotlib), Power BI  
 - **Programmation** : Python, R  
-- **Outils** : GitHub, Jupyter
+- **Outils** : GitHub, GitLab, Jupyter
 - **Recherche ** : conception d’expériences, vulgarisation scientifique, publications internationales  
 
 ---
@@ -31,7 +31,7 @@
 ## 🌍 Me retrouver
 - 💼 [LinkedIn](https://www.linkedin.com/in/emeline-aht-phd)  
 - 📂 [Portfolio GitHub Pages](https://EmelineData.github.io)   
-- ✉️ Contact : ahtchine.e@gmail.com  
+- ✉️ Contact : à venir  
 
 ---
 
